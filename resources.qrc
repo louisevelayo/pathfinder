@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>world_images/maze1.png</file>
+        <file>world_images/maze2.png</file>
+        <file>world_images/maze3.png</file>
+        <file>world_images/worldmap.png</file>
+        <file>world_images/worldmap4.png</file>
+        <file>world_images/amongus.png</file>
+        <file>world_images/goomba.png</file>
+        <file>world_images/potion-icon-png-15614.png</file>
+        <file>world_images/potion.png</file>
+        <file>world_images/NicePng_lava-png_2334439.png</file>
+        <file>world_images/deadamongus.png</file>
+        <file>world_images/deadXenemy.png</file>
+        <file>world_images/penemy.png</file>
+        <file>world_images/Xenemy.png</file>
+        <file>world_images/deadPenemy1.png</file>
+        <file>world_images/amongus.png</file>
+        <file>world_images/goomba2.png</file>
+        <file>world_images/sword.png</file>
+        <file>world_images/sword2.png</file>
+    </qresource>
+</RCC>
